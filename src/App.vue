@@ -95,7 +95,7 @@ html {
 }
 .contents {
   position: absolute;
-  left: 18vw;
+  left: 17vw;
 }
 .apex {
   width: 75vw;
