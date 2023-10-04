@@ -1,4 +1,4 @@
-# vue-wipn
+# wipn
 
 ## Project setup
 ```
