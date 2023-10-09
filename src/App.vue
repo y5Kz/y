@@ -1,8 +1,8 @@
 <template>
   <div class="parent">
     <div class="group">
-      <img alt="Header" src="./assets/sen.gif" class="header" />
-      <img alt="icon" src="./assets/トプ画.png" class="top" />
+      <img alt="Header" src="./assets/path.gif" class="header" />
+      <img alt="icon" src="./assets/pika.gif" class="top" />
       <a href="https://twitter.com/_waipen" class="x"
         ><img alt="xMain" src="./assets/waipen.png" class="x"
       /></a>
@@ -71,8 +71,10 @@ html {
   left: 34.2vw;
   position: absolute;
   width: 35vw;
+  height: 35vw;
   border-radius: 100%;
   top: 20vw;
+  border: 1vw solid rgb(184, 241, 255);
 }
 .name {
   position: absolute;
