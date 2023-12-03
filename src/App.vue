@@ -15,29 +15,29 @@
     </div>
     <div class="contents">
       <div class="mb-3">
-        <a v-b-toggle href="#apex" @click.prevent>
-          <img alt="ApexLegends" src="./assets/aL.png" class="apex" />
+        <a>
+          <img alt="ApexLegends" src="./assets/aLogo.jpg" class="apex" />
         </a>
       </div>
-      <b-collapse id="apex">
+      <a>
         <img alt="ApexLegends" src="./assets/apex.gif" class="Info" />
-      </b-collapse>
+      </a>
       <div class="mb-3">
-        <a v-b-toggle href="#sa" @click.prevent>
-          <img alt="SuddenAttack" src="./assets/sL.png" class="sa" />
+        <a>
+          <img alt="SuddenAttack" src="./assets/sLogo.png" class="sa" />
         </a>
       </div>
-      <b-collapse id="sa">
+      <a>
         <img alt="ApexLegends" src="./assets/SuddenAttack.png" class="Info" />
-      </b-collapse>
+      </a>
       <div class="mb-3">
-        <a v-b-toggle href="#valo" @click.prevent>
-          <img alt="Valorant" src="./assets/vL.png" class="valo" />
+        <a>
+          <img alt="Valorant" src="./assets/vLogoW.png" class="valo" />
         </a>
       </div>
-      <b-collapse id="valo">
+      <a>
         <img alt="ApexLegends" src="./assets/Valorant.png" class="Info" />
-      </b-collapse>
+      </a>
     </div>
   </div>
 </template>
@@ -100,18 +100,18 @@ html {
   left: 17vw;
 }
 .apex {
-  width: 75vw;
+  width: 63vw;
   height: 20vw;
   padding: 1vw;
 }
 .sa {
-  width: 75vw;
+  width: 63vw;
   padding: 1vw;
   margin-top: 2vw;
   top: 75vw;
 }
 .valo {
-  width: 75vw;
+  width: 63vw;
   padding: 1vw;
   margin-top: 2vw;
   top: 90vw;
